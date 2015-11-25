@@ -7,6 +7,15 @@ mywebsiteControllers.controller('MainCtrl',['$scope','$location',
 };
 }]); 
 
-mywebsiteControllers.controller('ExperienceCtrl',['$scope'
+mywebsiteControllers.controller('ExperienceCtrl',['$scope', '$http', 
+	function($scope,$http){
+		$http.get('json/workexperience.json').success(function(data){
+			$scope.workexperience = data; 
+		}); 
+	
+	}
 	]); 
-document.getElementById("header").innerHTML='update'; 
+
+mywebsiteControllers.controller('EducationCtrl',['$scope']); 
+mywebsiteControllers.controller('SkillsCtrl',['$scope']); 
+mywebsiteControllers.controller('ContactMeCtrl',['$scope']); 

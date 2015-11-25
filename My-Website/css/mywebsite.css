@@ -33,3 +33,14 @@ display: block;
 .box{ 
 background-color: pink;
 }
+li{ 
+	list-style-type: none;
+}
+.worktitle{
+	background-color: pink;
+	}
+.dates{
+	text-align: right;
+}
+
+

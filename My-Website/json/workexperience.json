@@ -1,0 +1,60 @@
+ 
+ [{"company": "Capco, Capital Markets Company N.V.", 
+"title": "Associate Consultant", 
+"startdate": "Sept, 2015",
+"enddate": "Current",
+"description":"Provide expertise in the digital/technological domain for a financial consulting company. Design user interfaces and develop user experiences for new technologies being implemented for clients. Front-end web development for large banking clients. "}, 
+{
+	"company": "Pivotal Labs", 
+	"title": "Quality Assurance Intern", 
+	"startdate": "April, 2014", 
+	"enddate": "Sept, 2014",
+	"description": "Agile software testing of mobile applications. Isolating program bugs, assisting in solution development. Creating test plans, assist automation, aiding in device registration and collection protocol."
+}, 
+{ 
+	"company": "Queen's University, Faculty of Computing", 
+	"title": "Teaching Assistant",
+	"startdate": "Sept, 2014", 
+	"enddate": "May, 2015", 
+	"description": "Courses assisted include: 'CISC 121: Introduction to Computer Science' and 'CISC 340: Fundamentals of Software Development'. Marking assignments and tests. Lead tutorial based on course content, clarify materials for students and answer questions. Assist students in test preparation." 
+}, 
+{ 
+	"company": "Queen's University, Faculty of Computing", 
+	"title": "Vice President of Univeristy Affairs", 
+	"startdate": "Sept, 2012", 
+	"enddate": "May, 2013", 
+	"description": "Representing the faculty of computing at Queen’s University in university affairs. Strengthening relations with alumni. Strengthening interfaculty relations. Attending Alma Mater Society meetings alongside the President."
+}, {
+	"company": "Hotel Dieu Hospital Fundraising Committee", 
+	"title": "President", 
+	"startdate": "Sept, 2012", 
+	"enddate": "Sept, 2013", 
+	"description": "Organizing fundraisers for the Hotel Dieu Hospital in Kingston as well as Annual Children Development Centre run. Met with a hospital representative on a monthly basis, and attended monthly hospital board meetings. Organized volunteer socials."
+}, 
+{ 
+	"company": "United Way Committee: Queen's University", 
+	"title":"Committee Member", 
+	"startdate": "Sept, 2012", 
+	"enddate": "May, 2013", 
+	"description": "Help disadvantaged residents of the Kingston community through volunteer work, including fundraising, as well as, work with a local youth shelter and a soup kitchen."
+
+}, 
+{ 
+"company": "Abercrombie & Fitch", 
+"title": "Sales Associate", 
+"startdate": "Feb, 2011", 
+"enddate": "Aug, 2011", 
+"description": "Was responsible for maintaining a neat environment.  Assisted patrons using the highest degree of customer service.           Carried out financial transactions including sales, exchanges and returns."
+}, 
+{"company": "5 Touch Marketing", 
+"title": "Marketing Associate", 
+"startdate": "July, 2012", 
+"enddate": "August, 2013",
+"description": "Assisted in promoting a positive brand image for clients and their products. Working closely with clients to ensure their needs are met, while maintaining a professional image."
+}, 
+
+{"company": "Mediaco Inc.", 
+"title":"Production Assistant", 
+"startdate": "Feb, 2010", 
+"enddate": "Aug, 2011", 
+"description": "Created and maintained the data base for the production of several client projects. Managed on-line registration for The Amethyst Award Ceremony, providing support to over 800 Government employees registrants."}]

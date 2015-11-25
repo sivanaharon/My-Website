@@ -3,10 +3,19 @@ var mywebsiteApp = angular.module('mywebsiteApp', [
 
 mywebsiteApp.config(['$routeProvider', function($routeProvider){
 	$routeProvider.when('/workExperience',{
-		templateUrl: 'workExperience.html',
+		templateUrl: 'partials/workExperience.html',
 		controller: 'ExperienceCtrl'}).
+	when('/education', {
+		templateUrl: 'partials/education.html',
+		controller: 'EducationCtrl'}).
+	when('/skills',{
+		templateUrl: 'partials/skills.html',
+		controller: 'SkillsCtrl'}).
+	when('/contactMe',{ 
+		templateUrl: 'partials/contactMe.html', 
+		controller: 'ContactMeCtrl'}).
 	otherwise({
-		redirectTo:''
+		redirectTo:'/workExperience'
 	});
 
 
